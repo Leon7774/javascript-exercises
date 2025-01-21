@@ -14,6 +14,7 @@ const removeFromArray = function (array, ...args) {
     }
   });
   // and return that array
+  
   return newArray;
 };
 
